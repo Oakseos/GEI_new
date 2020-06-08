@@ -1,0 +1,55 @@
+About Us
+
+The Green Education Initiative Project was founded in order to achieve  
+a sustainable future through environmental education & practical eco-solutions.
+
+The overarching objective of this Green Education Initiative is Environmental sustainability,
+ protection and conservation through environmental education at the 
+developmental/formative years to help build environmental friendly attitudes and habits. 
+We hope to:
+
+- Create AWARENESS to assist individuals develop a consciousness and sensitivity 
+to the total environment and its allied problems.
+
+- Increase KNOWLEDGE on basic environmental issues and problems. 
+To help individuals gain and acquire a variety of experience and understanding regarding the environment
+
+
+
+
+
+GEI mission
+
+Achieving environmental sustainability, 
+through environmental education & practical eco-solutions.
+
+
+Motto: creating a sustainable future.......
+
+
+Project impact
+
+The project impact  
+1st year:10,000 students 
+
+5th year: 50,000 students
+
+Active number of schools: 10 schools.
+
+
+Methodology/strategy
+
+We engage with students every Friday of week 
+3 for classroom activities(teaching)
+
+Last friday of the month for practicals.
+
+
+
+.about-us-page2-area .history-box .history-list li:before {
+    position: absolute;
+    content: url(img/about/bullet.png);
+    background-repeat: no-repeat;
+    top: 0;
+    left: -15px;
+    z-index: 1;

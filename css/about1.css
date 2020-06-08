@@ -1,0 +1,327 @@
+.about-us-page1-area {
+  padding: 93px 0 75px;
+}
+@media (min-width: 480px) and (max-width: 991px) {
+  .about-us-page1-area {
+    padding: 73px 0 55px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .about-us-page1-area {
+    padding: 63px 0 45px;
+  }
+}
+.about-us-page1-area .about-us-expert {
+  padding-bottom: 60px;
+  display: inline-block;
+}
+@media only screen and (max-width: 991px) {
+  .about-us-page1-area .about-us-expert {
+    padding-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .about-us-page1-area .about-us-expert {
+    text-align: center;
+  }
+}
+.about-us-page1-area .about-us-expert span {
+  margin-bottom: 10px;
+  display: block;
+}
+.about-us-page1-area .about-us-expert p {
+  margin-bottom: 50px;
+}
+.about-us-page1-area .about-us-expert .about-us-details-img-holder {
+  position: relative;
+}
+.about-us-page1-area .about-us-expert .about-us-details-img-holder:before {
+  content: "Before";
+  padding: 5px 15px 7px 15px;
+  color: #646464;
+  background: #ffffff;
+  border-radius: 50px 0 0 50px;
+  position: absolute;
+  z-index: 1;
+  top: 150px;
+  right: 50%;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:before {
+    top: 110px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:before {
+    top: 80px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:before {
+    top: 5px;
+    background: rgba(255, 255, 255, 0.9);
+  }
+}
+@media only screen and (max-width: 479px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:before {
+    background: rgba(255, 255, 255, 0.7);
+  }
+}
+.about-us-page1-area .about-us-expert .about-us-details-img-holder:After {
+  content: "After";
+  padding: 5px 15px 7px 15px;
+  color: #ffffff;
+  background: #6aaf08;
+  border-radius: 0 50px 50px 0;
+  position: absolute;
+  z-index: 1;
+  top: 150px;
+  left: 50%;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:After {
+    top: 110px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:After {
+    top: 80px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:After {
+    top: 5px;
+    background: rgba(106, 175, 8, 0.9);
+  }
+}
+@media only screen and (max-width: 479px) {
+  .about-us-page1-area .about-us-expert .about-us-details-img-holder:After {
+    background: rgba(106, 175, 8, 0.7);
+  }
+}
+.about-us-page1-area .about-us-expert .about-us-details-img-holder span {
+  width: 50%;
+  float: left;
+}
+.about-us-page1-area .skill1-area {
+  position: relative;
+  overflow: hidden;
+}
+.about-us-page1-area .skill1-area .progress {
+  background-color: #f0f0f0;
+  border-radius: 0;
+  box-shadow: none;
+  height: 7px;
+  margin-bottom: 56px;
+  overflow: visible;
+  position: relative;
+  margin-top: 25px;
+}
+.about-us-page1-area .skill1-area .progress .lead {
+  color: #444444;
+  font-size: 13px;
+  font-weight: 700;
+  left: 0;
+  position: absolute;
+  top: -13px;
+  z-index: 9;
+  background: #ffffff;
+  border: 2px solid #6aaf08;
+  padding: 5px 20px;
+}
+.about-us-page1-area .skill1-area .progress-bar > span {
+  background: #646464;
+  float: right;
+  font-size: 11px;
+  margin-right: 10px;
+  margin-top: -25px;
+  position: relative;
+  padding: 0 5px;
+}
+.about-us-page1-area .skill1-area .progress-bar > span:before,
+.about-us-page1-area .skill1-area .progress-bar > span:after {
+  border: medium solid transparent;
+  content: "";
+  height: 0;
+  position: absolute;
+  top: 100%;
+  width: 0;
+}
+.about-us-page1-area .skill1-area .progress-bar > span:before {
+  border-top-color: #333;
+  border-width: 5px;
+  left: 50%;
+  margin-left: -5px;
+}
+.about-us-page1-area .skill1-area .progress:nth-child(1) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page1-area .skill1-area .progress:nth-child(2) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page1-area .skill1-area .progress:nth-child(3) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page1-area .skill1-area .progress:nth-child(4) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page1-area .skill1-area .progress:nth-child(5) .progress-bar {
+  background: #6aaf08;
+}
+/*-------------------------------------
+5.4 About Us Page 2 Area Styles  
+---------------------------------------*/
+.about-us-page2-area {
+  padding: 86px 0 80px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .about-us-page2-area {
+    padding: 66px 0 60px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .about-us-page2-area {
+    padding: 56px 0 0;
+  }
+}
+.about-us-page2-area .history-box {
+  padding-right: 100px;
+  margin-bottom: 50px;
+}
+@media only screen and (max-width: 767px) {
+  .about-us-page2-area .history-box {
+    padding-right: 0;
+  }
+}
+.about-us-page2-area .history-box .history-list {
+  margin-top: 30px;
+}
+.about-us-page2-area .history-box .history-list li {
+  border-left: 1px dashed #646464;
+  padding-left: 30px;
+  position: relative;
+  margin-left: 10px;
+  padding-bottom: 40px;
+}
+.about-us-page2-area .history-box .history-list li:before {
+  position: absolute;
+  content: url(img/about/bullet.png);
+  background-repeat: no-repeat;
+  top: 0;
+  left: -15px;
+  z-index: 1;
+}
+.about-us-page2-area .history-box .history-list li h3 {
+  line-height: 1;
+  color: #111111;
+}
+.about-us-page2-area .history-box .history-list li p {
+  margin-bottom: 0;
+}
+.about-us-page2-area .history-box .history-list li:last-child {
+  border-left: 0;
+}
+.about-us-page2-area .history-img-wraper {
+  text-align: center;
+}
+.about-us-page2-area .history-img-wraper .history-img-holder {
+  margin-top: 45px;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+}
+@media only screen and (max-width: 767px) {
+  .about-us-page2-area .history-img-wraper .history-img-holder {
+    margin-bottom: 45px;
+    margin-top: 0;
+  }
+}
+.about-us-page2-area .history-img-wraper .history-img-holder:before {
+  position: absolute;
+  content: "";
+  border: 2px dashed #e1e1e1;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  bottom: 30px;
+  right: 30px;
+}
+.about-us-page2-area .history-img-wraper .history-img-holder img {
+  width: 100%;
+}
+.about-us-page2-area .history-img-wraper .history-img-holder span {
+  position: absolute;
+  left: -50px;
+  z-index: 1;
+  top: 60px;
+  width: 1px;
+  word-wrap: break-word;
+}
+.about-us-page2-area .ask-question-left .panel-group {
+  padding-top: 10px;
+}
+.about-us-page2-area .skill1-area {
+  position: relative;
+  overflow: hidden;
+}
+.about-us-page2-area .skill1-area .progress {
+  background-color: #f0f0f0;
+  border-radius: 0;
+  box-shadow: none;
+  height: 7px;
+  margin-bottom: 60px;
+  overflow: visible;
+  position: relative;
+  margin-top: 30px;
+}
+.about-us-page2-area .skill1-area .progress .lead {
+  color: #444444;
+  font-size: 13px;
+  font-weight: 700;
+  left: 0;
+  position: absolute;
+  top: -13px;
+  z-index: 9;
+  background: #ffffff;
+  border: 2px solid #6aaf08;
+  padding: 5px 20px;
+}
+.about-us-page2-area .skill1-area .progress-bar > span {
+  background: #646464;
+  float: right;
+  font-size: 11px;
+  margin-right: 10px;
+  margin-top: -25px;
+  position: relative;
+  padding: 0 5px;
+}
+.about-us-page2-area .skill1-area .progress-bar > span:before,
+.about-us-page2-area .skill1-area .progress-bar > span:after {
+  border: medium solid transparent;
+  content: "";
+  height: 0;
+  position: absolute;
+  top: 100%;
+  width: 0;
+}
+.about-us-page2-area .skill1-area .progress-bar > span:before {
+  border-top-color: #333;
+  border-width: 5px;
+  left: 50%;
+  margin-left: -5px;
+}
+.about-us-page2-area .skill1-area .progress:nth-child(1) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page2-area .skill1-area .progress:nth-child(2) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page2-area .skill1-area .progress:nth-child(3) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page2-area .skill1-area .progress:nth-child(4) .progress-bar {
+  background: #6aaf08;
+}
+.about-us-page2-area .skill1-area .progress:nth-child(5) .progress-bar {
+  background: #6aaf08;
+}
